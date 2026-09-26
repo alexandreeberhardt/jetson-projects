@@ -1,0 +1,6 @@
+[submodule "jetson-yolo-fruit"]
+	path = jetson-yolo-fruit
+	url = git@github.com:alexandreeberhardt/jetson-yolo-fruit.git
+[submodule "jetson-qwen-benchmark"]
+	path = jetson-qwen-benchmark
+	url = git@github.com:alexandreeberhardt/jetson-qwen-benchmark.git
